@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version='1.0'>
+  <head>
+    <title>RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="bio">
+      <outline text="Nature">
+        <outline type="rss" text="plant-sciences" xmlUrl="./science/bio/Nature/plant-sciences.rss"/>
+      </outline>
+      <outline text="Nature">
+        <outline type="rss" text="genome-informatics" xmlUrl="./science/bio/Nature/genome-informatics.rss"/>
+      </outline>
+      <outline text="Nature">
+        <outline type="rss" text="plant-biotech" xmlUrl="./science/bio/Nature/plant-biotech.rss"/>
+      </outline>
+      <outline text="Nature">
+        <outline type="rss" text="biofuels" xmlUrl="./science/bio/Nature/biofuels.rss"/>
+      </outline>
+    </outline>
+  </body>
+</opml>
